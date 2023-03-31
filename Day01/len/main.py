@@ -1,0 +1,1 @@
+print("The length of the string is: " + str(len(input("Insert a string: "))))
